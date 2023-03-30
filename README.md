@@ -1,16 +1,18 @@
-### Hi there 👋
+## Olá! Sou o Jefferson Sena 
 
-<!--
-**JeffersonSenaa/JeffersonSenaa** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=JeffersonSenaa&count_private=true&show_icons=true&theme=dark)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JeffersonSenaa&hide_progress=true&theme=dark)
 
-Here are some ideas to get you started:
+## Sobre mim
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- ⚡ Tenho 21 anos
+- 👨‍💻 Estudante de Engenharia de Software da Universidade de Brasília - UnB
+- Eu sou de Brasília - Brasil
+- Gosto de esportes e estudar
+
+## Estudando no momento
+- ⚡ C
+- ☕ Java
+- 🐍 Python
+- 🐬 MySql
+- 🎲 Estrutura de Dados
