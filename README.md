@@ -7,12 +7,9 @@
 
 - ⚡ Tenho 21 anos
 - 👨‍💻 Estudante de Engenharia de Software da Universidade de Brasília - UnB
-- Eu sou de Brasília - Brasil
-- Gosto de esportes e estudar
 
 ## Estudando no momento
 - ⚡ C
 - ☕ Java
 - 🐍 Python
-- 🐬 MySql
 - 🎲 Estrutura de Dados
