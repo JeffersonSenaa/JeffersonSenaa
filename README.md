@@ -3,7 +3,9 @@
 [![Gmail Badge](https://img.shields.io/badge/-Gmail-red?style=flat-square&logo=Gmail&logoColor=white&link=mailto:jeffersonsena12144@gmail.com)](mailto:jeffersonsena12144@gmail.com)
 [![GitHub](https://img.shields.io/github/followers/iuricode?label=GitHub&style=social)](https://github.com/JeffersonSenaa)
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=JeffersonSenaa&count_private=true&show_icons=true&theme=tokyonight)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=JeffersonSenaa&count_private=true&show_icons=true&theme=tokyonight) </br>
+<!-- ![Top Langs](https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=JeffersonSenaa&count_private=true&layout=compact&theme=tokyonight)  -->
+
 
 ## Principais Tecnologias
   <div>
